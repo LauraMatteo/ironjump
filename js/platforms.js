@@ -75,7 +75,7 @@ var platforms = [
     x: 400,
     y: -4500,
     width: 200,
-    color: "rgb(155,80,30)"
+    color: "yellow"
   }
 ]
 
