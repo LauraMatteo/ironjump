@@ -72,10 +72,10 @@ var platforms = [
     width: 200
   },
   {
-    x: 600,
+    x: 400,
     y: -4500,
     width: 200,
-    color: "green"
+    color: "rgb(155,80,30)"
   }
 ]
 
